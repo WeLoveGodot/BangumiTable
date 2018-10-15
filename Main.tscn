@@ -9,7 +9,7 @@
 [node name="Main" type="Node" index="0"]
 
 script = ExtResource( 1 )
-SAVE_FILE = "bangumi.save"
+SAVE_FILE = "user://bangumi.save"
 
 [node name="UI" type="Control" parent="." index="0"]
 

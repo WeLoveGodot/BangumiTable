@@ -1,6 +1,6 @@
 extends Node
 
-export(String) var SAVE_FILE = "bangumi.save"
+export(String) var SAVE_FILE = "user://bangumi.save"
 
 func _ready():
 	load_bangumi()
